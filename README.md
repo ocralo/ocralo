@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=brayanhenao&color=red&base=1574)
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&repeat=false&random=false&width=435&lines=Hi+People+%F0%9F%91%8B+)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=I'm+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=true&random=false&width=435&lines=I'm+Frontend+Developer)](https://git.io/typing-svg)
 
 My name is Rodrigo Escobar, living in Colombia and working for [Banco W](https://www.bancow.com.co/) in Colombia.
 
