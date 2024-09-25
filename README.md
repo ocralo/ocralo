@@ -4,15 +4,21 @@
 
 My name is Rodrigo Escobar, living in Colombia and working for [Banco W](https://www.bancow.com.co/) in Colombia.
 
-- 🎓 Education
+## 🎓 Education
   - BS Multimedia Engineering, Autonoma de Occidente University, Colombia.
   - MSc Software Engineering Student, Andes University, Colombia.
 
-- 🔗 social networking
+## 🔗 social networking
 
   - <a href="https://linkedin.com/in/https://www.linkedin.com/in/ocralo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dalejan/" height="30" width="40" /></a>
 
-- 📊 Stats
+## 📬 Get in touch
+
+Are you curious about my profecional experience? Check my [CV](resources/Rodrigo_Escobar_Lopez-CV-EN.pdf) for more information.
+
+My [CV](resources/Rodrigo_Escobar_Lopez-CV-ES.pdf) in spanish
+
+## 📊 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=ocralo&show_icons=true&locale=en&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
