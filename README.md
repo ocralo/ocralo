@@ -6,7 +6,7 @@ My name is Rodrigo Escobar, living in Colombia and working for [Banco W](https:/
 
 ## 🎓 Education
   - BS Multimedia Engineering, Autonoma de Occidente University, Colombia.
-  - MSc Software Engineering Student, Andes University, Colombia.
+  - MSc Software Engineering, Andes University, Colombia.
 
 ## 🔗 social networking
 
